@@ -1,0 +1,6 @@
+terraform.tf*
+# Local .terraform directories
+.terraform/
+*.terraform.lock.hcl
+# Local state files and backups
+*.tfstate
