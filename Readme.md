@@ -4,7 +4,7 @@ This project demonstrates migrating messages between two independent Kafka KRaft
 
 ## Design Diagram
 
-![Kafka Migration Diagram](./documentation/images/kafka_migration.jpg)
+![Kafka Migration Diagram](./documentation/images/kafka_migration_diagram.jpg)
 
 ---
 
